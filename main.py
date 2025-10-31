@@ -1,5 +1,6 @@
 #Mood indicator program 😄
 
+print("Hello Dnyaneshwar, lets check your mood today!")
 score = int(input("Enter your mood score (1-5): "))
 
 if score == 5:
