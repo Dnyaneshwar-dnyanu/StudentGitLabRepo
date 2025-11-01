@@ -1,3 +1,3 @@
-Student Git Lab
+## Student Git Lab
 
 Git assignment
