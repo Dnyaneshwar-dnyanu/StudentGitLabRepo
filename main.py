@@ -1,5 +1,6 @@
 #Mood indicator program 😄
 
+print("Good morning 🌄")
 print("Hello Dnyaneshwar, lets check your mood today!")
 score = int(input("Enter your mood score (1-5): "))
 
